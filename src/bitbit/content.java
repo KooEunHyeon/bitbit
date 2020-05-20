@@ -6,5 +6,7 @@ public class content {
 		System.out.println("bitbit loading...?!");
 		System.out.println("bitbit insert");
 		System.out.println("bitbit update");
+		System.out.println("bitbit delete");
+		System.out.println("bitbit list");
 	}
 }
